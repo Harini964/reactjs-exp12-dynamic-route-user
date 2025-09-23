@@ -1,70 +1,39 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## React Dynamic Routing Demo
 
-### `npm start`
+This demo showcases a React application implementing dynamic routing using React Router. The application displays a list of users on the home page, and clicking on a user navigates to a detail page showing that specific user's information based on the URL parameter.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**1. Home Page with User List**  
+The home page displays a list of users with clickable links. Each link routes to a dynamic URL corresponding to the user's ID.
 
-### `npm test`
+![WhatsApp Image 2025-09-16 at 14 11 45_8a7267af](https://github.com/user-attachments/assets/5f29d72b-1e2b-4186-a5ff-a483471a802d)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+**2. User Detail Page**  
+Clicking on a user link navigates to the detail page showing that user's name and email, retrieved dynamically using the route parameter.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![WhatsApp Image 2025-09-16 at 14 11 54_93b21614](https://github.com/user-attachments/assets/081b89d7-da8b-49af-b8fa-a6e377109a5d)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## React Dynamic Routing Demo
 
-### `npm run eject`
+This demo showcases a React application implementing dynamic routing using React Router. The application displays a list of users on the home page, and clicking on a user navigates to a detail page showing that specific user's information based on the URL parameter.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Screenshots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**1. Home Page with User List**  
+The home page displays a list of users with clickable links. Each link routes to a dynamic URL corresponding to the user's ID.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![WhatsApp Image 2025-09-16 at 14 11 45_8a7267af](https://github.com/user-attachments/assets/5f29d72b-1e2b-4186-a5ff-a483471a802d)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+**2. User Detail Page**  
+Clicking on a user link navigates to the detail page showing that user's name and email, retrieved dynamically using the route parameter.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![WhatsApp Image 2025-09-16 at 14 11 54_93b21614](https://github.com/user-attachments/assets/081b89d7-da8b-49af-b8fa-a6e377109a5d)
